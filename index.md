@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to my dummy github page
 
-I'm glad you are here. I plan to talk about ...
+I'm sorry for this simple site, i hope you not dissappointed to visit this site. This is only for educational purpose & won't be develop
